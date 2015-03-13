@@ -1,0 +1,1 @@
+podsyncr allows to sync photos and sets on flickr with an ipod.
